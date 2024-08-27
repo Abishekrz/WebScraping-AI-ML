@@ -17,5 +17,8 @@ git clone https://github.com/Abishekrz/WebScraping-AI-ML.git
 ```bash
 cd WebScraping-AI-ML
 ```
-#
+# Usage
+- Explore the Jupyter notebooks to understand the web scraping and ML processes.
+
+# MIT License
 - Feel free to adjust or expand on any section!
